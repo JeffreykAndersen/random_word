@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    border: 3px solid aqua;
+    margin: 10px auto;
+    width: 900px;
+    padding: 10px;
+}
+h1{
+    color: salmon;
+    display: inline-block;
+}
+h3{
+    color: salmon;
+
+}
+button{
+    background-color: aqua;
+    border-radius: 3px;
+    border: 2px solid aquamarine
+}
+a{
+    color: salmon;
+    font-size: 12pt;
+}
